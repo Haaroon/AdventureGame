@@ -24,7 +24,6 @@ A Cheat code throwback to an old 90s japanese game? Hmmmm where is it?
 * Download from releases/tag/1.0
 * Unzip contents of AdventureGame.zip
 * Double click on start.jar to play
-* 
 
 # Requirements
 * See release page
