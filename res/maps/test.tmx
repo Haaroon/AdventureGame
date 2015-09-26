@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="70" height="70" tilewidth="10" tileheight="10">
+ <tileset firstgid="1" name="grass" tilewidth="10" tileheight="10">
+  <image source="../../../../Semester 2/OO-414U/miniproject/Game test/data/grass.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="145" name="rocks" tilewidth="10" tileheight="10">
+  <properties>
+   <property name="blocked" value="true"/>
+   <property name="“blocked”" value="&quot;true&quot;"/>
+  </properties>
+  <image source="../../../../Semester 2/OO-414U/miniproject/Game test/data/rocks.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="289" name="grass" tilewidth="10" tileheight="10">
+  <image source="../grass.png" width="128" height="128"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="70" height="70">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC9XbRY5dQRSD4c5SOowdZmZm5qTDzMzMzIwdpiXmn9QCfCVLrsE3s0rWHdV5dV5rp5aWzuiCruiG7uiBnuiF3uiDViHbt/J8P7ShPwZgIAZhMIZgKIZhuJgdUXl+JEZhNMZgLMZhPCZgIiZhspidUnl+KqZhOmZgJmZhNuZgLuZhvphdUHl+IRZhMZZgKZZhOVZgJVZhtZhdU3l+LdZhPTZgI9qxCZuxBVuxTcxurzy/AzuxC7uxB3uxD/txAAdxSMwerjx/BEdxDMdxAidxCqdxBmdxTsyerzx/ARdxCZdxBVdxDddxAzdxS8zerjx/B3dxD/fxAA/xCI/xBE/xTMw+rzz/Ai/xCq/xBm/xDu/xAR/xScx+rjzfgS/4im/4jh/4iV/4jT/4K2b/VZ5PmkmcefXcpJnEmVfPTZpJnHn13KSZxJlXz02aSZx59dykmcSZV89NmkmcefXcpJnEmVfPTZpJnHn13KSZxJlXz02aSZx59dykmcSZV89NmF1KPqlLwuxS8kldEmaXkk/qkjC7lHxSl4TZpeSTuiTMLiWf1CVhdin5pC4Js0vJJ3VJmF1KPqlLwuxS8kldEmaXkk/qkjC7lHxSl5T3nbT9vZT3nbT9vZT3nbT9vZT3nbT9vZT3nbT9vZT3nbT9vZT3nbT9vZT3nbT9vZT3nbT9vZT3nbT9vZT3nbT9PfUu7ZxLOsQ+zu7u/SrnXpvaXenh3q9yfne1u9LDvV/l/O5qd6WHe7/K+d3V7koP936V87ur3ZUe7v0q53dXuys93PtVzu+udld6uPernN9d7a70cO9XOb+72l3p4d6vcn53tbvSw/V+UHLO7652V3q47uklp3Z3vQWoPVz39KTf9pvMaa57etJv+03mNNc9Pem3/SZzmuuenvTbfpM5zXVPT/ptv8mc5rqnJ/2232ROc93Tk37bbzKnue7pSb/tN5nTXPf0pN/2m8xprnt6yv9Ims5p/wHyTxoPkEwAAA==
+  </data>
+ </layer>
+</map>
