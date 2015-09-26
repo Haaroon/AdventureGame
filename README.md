@@ -19,8 +19,14 @@ A simple, user-friendly shop where you can buy potions or boosts
 A Cheat code throwback to an old 90s japanese game? Hmmmm where is it?
 
 
-#Run 
+#Play Guide 
 
-Download from .... and click ... to run
+* Download from releases/tag/1.0
+* Unzip contents of AdventureGame.zip
+* Double click on start.jar to play
+* 
+
+# Requirements
+* See release page
 
 
